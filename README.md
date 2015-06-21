@@ -10,13 +10,13 @@ FXgen is a GUI application yielding parameters to generate both Cartesian and hi
 
 
 ### Install
-- Linux
+- Linux  
 `$ tar xvfz FXgen_xxx.tar.gz`
 
-- Windows
+- Windows  
 Unzip an archive file.
 
-- MacOSX
+- MacOSX  
 Unzip an archive file.
 
 ### Contributors
