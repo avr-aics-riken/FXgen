@@ -1,12 +1,12 @@
 # FXgen
-Mesh generation for FrontFlow solvers
+Mesh generator for FrontFlow solvers
 
 ### Copyright 
-- Copyright (c) 2011-2015 Institute of Industrial Science, The University of Tokyo. All rights reserved.
+- Copyright (c) 2011-2015 Institute of Industrial Science, University of Tokyo. All rights reserved.
 - Copyright (c) 2012-2015 Advanced Institute for Computational Science, RIKEN. All rights reserved.
 
 ### Outline
-FXgen is a GUI application yielding parameters to generate both Cartesian and hierarchical Cartesian grid systems. The generated parameters are send to cluster machines together with ogirinal geometry data, and are used to generate a real grid system on parallel computers.
+FXgen is a GUI application to generate parameters to make both Cartesian and hierarchical Cartesian grid systems. The generated parameters are send to cluster machines together with ogirinal geometry data, and are used to generate a real grid system on parallel computers.
 
 
 ### Install
